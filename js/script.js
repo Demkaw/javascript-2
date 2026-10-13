@@ -148,7 +148,7 @@ console.log(" <4. ELIMINAR ELEMENTO> ");
 eliminarElemento("Repel");
 mostrarElemento("Repel");
 
-console.log(" <5. ARREGLO FINAL> ");
+console.log(" <6. ARREGLO FINAL> ");
 console.log(pokedex);
 
 //Ejercicio 3
